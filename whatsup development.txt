@@ -8,4 +8,6 @@ module1 : message
 
 module1 : chat
 
+module1 : profile
+
 
